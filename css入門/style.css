@@ -1,0 +1,14 @@
+h3{
+    color: #990073;
+}
+div{
+    float:left;
+}
+.dead{
+    color:rgba(19, 145, 218, 0.5);
+}
+div{
+    color:rgba(19, 145, 218, 0.5);
+    border: 1px red solid;
+}
+
